@@ -1,0 +1,94 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/templates/shop-homepage)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+body {
+  padding-top: 56px;
+}
+.d-block {
+ margin: auto;
+}
+.container {
+  margin: auto;
+}
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
+h1 { color: #7c795d; font-family: 'Trocchi', serif; font-size: 45px; font-weight: normal; line-height: 48px; margin: 0; }
+.btn {
+  margin-top: 5px;
+}
+.card-title, h5, .card-text {
+  text-align: center;
+}
+.card-footer {
+  text-align: center;
+}
+#container {
+  text-align: center;
+}
+.list_shop_categories {
+  color: #fff;
+  position: relative;
+  margin: auto;
+}
+.list-centered {
+  margin-left: 0;
+  margin-bottom: 5px;
+  text-align: center;
+  list-style: none;
+}
+.list-centered li {
+  display: inline-block; }
+
+  .list-centered li a {
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 2px;
+    margin-bottom: 10px;
+    margin: 0 12px 5px;
+    padding: 5px 0px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    background: none;
+    text-transform: uppercase;
+    display: inline-block;
+    -webkit-transition: color 0.3s, border-color 0.2s;
+    -o-transition: color 0.3s, border-color 0.2s;
+    transition: color 0.3s, border-color 0.2s;
+    -webkit-transition: color 0.3s, border-color 0.3s; }
+  
+    .list-centered li a:hover {
+      border-bottom: 1px solid transparent;
+      opacity: 1; }
+
+.row {
+  text-align: center;
+}
+.display-4 {
+  text-align: auto;
+  color: #fff;
+}
+.category_item_link{
+  color: #fff;
+  text-align: center;
+}
+.jumbotron {
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/designer.jpg);
+}
+.column, .columns {
+  width: 100%;
+  float: left;
+  padding-right: 0.625rem;
+  padding-left: 0.625rem;
+}
+ul.products-grid{
+  margin: 0px -10px 16px;
+}
+.products-grid {
+  -webkit-backface-visibility: hidden; }

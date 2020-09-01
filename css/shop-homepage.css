@@ -79,7 +79,8 @@ h1 { color: #7c795d; font-family: 'Trocchi', serif; font-size: 45px; font-weight
   text-align: center;
 }
 .jumbotron {
-  background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/designer.jpg);
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.6) 0%,rgba(0,0,0,0.6) 100%), url(../img/okro.jpg);
+  
 }
 .column, .columns {
   width: 100%;
@@ -92,3 +93,9 @@ ul.products-grid{
 }
 .products-grid {
   -webkit-backface-visibility: hidden; }
+
+  .large-centered {
+    margin-top: 150px;
+    margin-bottom: 300px;
+
+  }

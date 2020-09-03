@@ -287,3 +287,7 @@ footer {
 	text-transform: uppercase;
 	margin-bottom: 50px;
 }
+.carouselExampleIndicators {
+	height:100vh;
+ 	width:100%;
+}
